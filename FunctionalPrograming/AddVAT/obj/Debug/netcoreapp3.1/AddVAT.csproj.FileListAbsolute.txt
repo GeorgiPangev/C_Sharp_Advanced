@@ -1,0 +1,12 @@
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.exe
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.deps.json
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.runtimeconfig.json
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.runtimeconfig.dev.json
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.dll
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\bin\Debug\netcoreapp3.1\AddVAT.pdb
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.AssemblyInfoInputs.cache
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.AssemblyInfo.cs
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.csproj.CoreCompileInputs.cache
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.dll
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.pdb
+D:\C#\Advanced\FunctionalPrograming\Lab\FunctionalProgramingLab\AddVAT\obj\Debug\netcoreapp3.1\AddVAT.genruntimeconfig.cache
